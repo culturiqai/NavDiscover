@@ -28,4 +28,7 @@ The question of whether the three-dimensional, incompressible Navier-Stokes equa
     ```bash
     python3 hypo-xtnd.py
     ```
-    This will run the full pipeline, including the AI-driven filter discovery and the high-resolution simulations for the parameter sweep. It will generate individual plots for each run and the final summary figure (`hypo_xtnd_sweep_summary.png`). 
+    This will run the full pipeline, including the AI-driven filter discovery and the high-resolution simulations for the parameter sweep. It will generate individual plots for each run and the final summary figure (`hypo_xtnd_sweep_summary.png`).
+
+
+    AI helped code it, but the mathematical framework is mine
