@@ -99,6 +99,4 @@ If you use this benchmark to stress-test your Neural Operators, PINNs, or CFD so
 
 > *This project is part of an open research initiative to map the stability landscape of the Navier-Stokes equations.*
 
-```
 
-```
