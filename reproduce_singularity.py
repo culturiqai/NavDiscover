@@ -29,8 +29,7 @@ VISCOSITY = 0.005 # Slightly lower viscosity for sharper structures
 SIM_TIME = 0.4    # Total simulation time
 TIME_STEP = 0.0005 # Time step
 
-# (All classes: HRFNavierStokesPOC_3D, SymbolicRegressionAnalyzer, FilterDiscovery
-#  are copied verbatim from clay_3d.py here)
+
 class HRFNavierStokesPOC_3D:
     def __init__(self, N=32, nu=0.01):
         self.N, self.nu = N, nu
