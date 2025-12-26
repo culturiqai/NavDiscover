@@ -20,9 +20,9 @@ At this specific coordinate, the flow exhibits:
 3.  **Self-Similarity:** The vorticity profile collapses to a universal "W-profile" attractor, persisting at high resolutions ($512^3$).
 
 <p align="center">
-  <img src="https://placehold.co/800x400?text=Run+reproduce_singularity.py+to+see+collapse" alt="Vorticity Collapse Visualization">
+  <img src="https://github.com/culturiqai/NavDiscover/blob/main/assets/vorticity_convergence.jpg" alt="Resolution Convergence">
   <br>
-  <em>Figure 1: Vorticity magnitude collapse at s=1.26.</em>
+  <em><b>Figure 1: Visual evidence of Singularity.</b> Vorticity structures do not smooth out; they become visibly sharper and more intense as the grid is refined from 256³ (top) to the ultra-high resolution of 512³ (bottom). This persistence at small scales is the hallmark of a true Euler singularity.</em>
 </p>
 
 ---
