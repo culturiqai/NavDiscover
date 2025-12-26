@@ -22,7 +22,7 @@ from sklearn.pipeline import make_pipeline
 import sympy as sp
 
 # (All classes: HRFNavierStokesPOC_3D, SymbolicRegressionAnalyzer, FilterDiscovery
-#  are copied verbatim from clay_3d.py here)
+
 class HRFNavierStokesPOC_3D:
     def __init__(self, N=32, nu=0.01):
         self.N, self.nu = N, nu
