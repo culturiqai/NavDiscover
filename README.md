@@ -9,7 +9,7 @@
 
 ---
 
-## 🚨 The Discovery: "The Sweet Spot" ($s \approx 1.26$)
+## 🚨 "The Sweet Spot" ($s \approx 1.26$)
 This repository contains the source code for the research *["A Computationally-Guided Search for a Candidate Singularity"](https://doi.org/10.5281/zenodo.15769062)*.
 
 Using an AI-guided evolutionary search, we identified a critical geometric instability in **anti-parallel vortex tubes** at a normalized separation distance of **$s \approx 1.26$**.
@@ -76,6 +76,8 @@ Our parameter sweep revealed a sharp global minimum in blow-up time at separatio
 
 The singularity time  remains constant as viscosity is reduced, a hallmark of an inviscid (Euler) singularity mechanism, distinguishing it from viscous reconnection.
 *(See `experiments/validate_inviscid.py`)*
+
+### 3. We are currently scrutinizing the math, to rule out Gibbs Phenomena 
 
 ---
 
